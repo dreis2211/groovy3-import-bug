@@ -27,8 +27,6 @@ public class ImportCompilationCustomizer extends CompilationCustomizer {
                 importCustomizer.call(source, context, classNode);
             }
         }
-
-        importCustomizer.call(source, context, classNode);
     }
 
 }
