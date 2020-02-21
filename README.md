@@ -1,7 +1,7 @@
 # Run the example
 In order to run the example, execute `./gradlew build`
 
-You should see the following failures:
+You should see the following failure:
 ```
 > Task :test FAILED
 
