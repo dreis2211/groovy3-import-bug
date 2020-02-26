@@ -10,4 +10,4 @@ ImportTest > importBreaks() FAILED
 
 ```
 
-See [GROOVY-9407](https://issues.apache.org/jira/browse/GROOVY-9407) for more information and also a possible workaround.
+See [GROOVY-9407](https://issues.apache.org/jira/browse/GROOVY-9407) for more information and a possible workaround.
