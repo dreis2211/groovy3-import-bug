@@ -1,4 +1,4 @@
-# Run the example
+# Run the build
 In order to run the example, execute `./gradlew build`
 
 You should see the following test failure:
