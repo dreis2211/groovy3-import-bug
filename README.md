@@ -1,5 +1,5 @@
 # Run the tests
-In order to run the example, execute `./gradlew build`
+In order to run the tests, execute `./gradlew build`
 
 You should see the following test failure:
 ```
